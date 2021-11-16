@@ -1,5 +1,5 @@
 # script variables
-$regionalsettingsURL = ""
+$regionalsettingsURL = "https://raw.githubusercontent.com/ryanshawharrison/Azure-Config/main/VMLocale.xml"
 $RegionalSettings = "D:\VMLocale.xml"
 
 # download settings
